@@ -1,0 +1,84 @@
+/*Resets*/
+*
+	margin: 0
+	padding: 0
+	border: 0
+
+/* Layout */
+body, html
+	height: 100%
+
+body
+	background: #F4EFEB
+
+.content
+	display: flex
+	flex-direction: column
+	justify-content: space-between
+	max-width: 100%
+	min-height: 100%
+	margin: auto
+	header
+		height: 80px
+		display: flex
+		align-items: center
+	main
+
+	footer
+		height: 80px
+
+.content
+	header
+		background: #EE4429
+		color: #fff
+		nav
+			width: 100%
+			display: flex
+			flex-direction: row
+			justify-content: space-between
+			.header--logo
+				padding: 0 30px
+				font-size: 22px
+				flex-grow: 1
+				a
+					text-decoration: none
+					color: #fff
+			.header-center-options
+				flex-grow: 2
+				ul.list-menu
+					height: 100%
+					display: flex
+					flex-direction: row-reverse
+					list-style: none
+					align-items: center
+					margin: 0
+					font-size: 16px
+					li
+						padding: 0 10px
+						a
+							color: #fff
+							text-decoration: none
+			.header-right-options
+				flex-grow: 1
+				text-align: center
+	footer
+		width: 100%
+		display: flex
+		flex-direction: row
+		align-items: center
+		padding: 0 10%
+		background: #0E0346
+		color: #F4EFEB
+
+
+// Small devices (landscape phones, less than 768px)
+// @media (max-width: 767px)
+
+// Medium devices (tablets, less than 992px)
+// @media (max-width: 991px)
+
+// Large devices (desktops, less than 1200px)
+// @media (max-width: 1199px)
+
+// Extra large devices (large desktops)
+// No media query since the extra-large breakpoint has no upper bound on its width
