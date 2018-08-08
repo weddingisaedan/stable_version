@@ -1,20 +1,33 @@
 <header>
-	<nav class="navbar navbar-default navbar-custom align-items-center">
-		<div class="container">
-			<div class="navbar-header">
-				<a href="#" class="navbar-brand">
-					<span class="logo align-self-middle">Isa & Dan</span>
-				</a>
-				<button class="navbar-toggle" data-toggle="collapse" data-target="#navbar-top">menu</button>
-			</div>
-				<ul id="navbar-top" class="nav navbar-nav navbar-right collapse navbar-collapse">		
-					<li class="active teste"><a href="#home">Home</a></li>
-					<li><a href="#couple">O Casal</a></li>
-					<li><a href="#where">Quando e Aonde?</a></li>
-					<li><a href="#confirm">Confirme sua Presença</a></li>
-					<li><a href="#gifts">Presentes</a></li>
-					<li><a href="">Fotos</a></li>
-				</ul>
-		</div>		
+	<nav class="navbar navbar-expand-lg navbar-light align-items-center navbar-custom">
+		<a class="navbar-brand" href="#">
+			<span class="logo align-self-middle">Isa & Dan</span>
+		</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+			<ul class="navbar-nav ml-auto mt-2 mt-lg-0 text-center text-lg-right">
+				<li class="nav-item active">
+					<a class="nav-link"  href="#">Home <span class="sr-only">(current)</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#couple">O Casal</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#where">Quando e Aonde?</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#confirm">Confirme sua Presença</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#gifts">Presentes</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="">Fotos</a>
+				</li>
+			</ul>
+		</div>
 	</nav>
 </header>
