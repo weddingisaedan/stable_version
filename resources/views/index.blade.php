@@ -22,7 +22,7 @@
 		<div class="row py-4">
 			<div class="col">
 				<h2 class="text-center h2-custom">A Noiva e o Noivo</h2>
-				<h3 class="text-center h3-custom">Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Si u mundo tá muito paradis?.</h3>
+				<h3 class="text-center h3-custom">Deus desenhou e escreveu a nossa história muito antes do que sonhávamos.Nossas vidas agora serão uma só, os sonhos de Deus também são os nossos. Uma só carne, um só espírito e uma só vida.</h3>
 			</div>
 		</div>
 		<div class="row align-items-center py-4">
@@ -30,7 +30,7 @@
 				<img src="img/isa.jpg" class="img-responsive img-bride" alt="">
 				<h3 class="text-center h4-custom pt-4">
 					Isabella
-					<a href="">
+					<a href="https://www.instagram.com/bellaisapinheiro/" target="_blank">
 						<i aria-hidden="true" class="fa fa-instagram"></i>
 					</a>
 				</h3>
@@ -45,7 +45,7 @@
 				<img src="img/dan.jpg" class="img-responsive img-groom" alt="">
 				<h3 class="text-center h4-custom pt-4">
 					Danilo
-					<a href="">
+					<a href="https://www.instagram.com/danilodcordeiro/" target="_blank">
 						<i aria-hidden="true" class="fa fa-instagram"></i>
 					</a>
 				</h3>
@@ -270,7 +270,7 @@
 </section>
 
 <section class="img-phrase2">
-	<div class="text-center phrase2">Eu quero te abraçar assim como eu abraço a minha fé, eu quero construir a estrada do futuro desde já, </br> eu quero me unir na benção que o amigo vai nos dar, eu quero estar e ser contigo em Deus.
+	<div class="text-center phrase2">Eu quero te entender, eu quero te levar pra conhecer. Os vales do Senhor, aonde corre o leite, o mel e o amor, eu quero a tua mão, fazer morada no teu coração, eu quero estar e ser contigo em Deus.
 	</div>
 </section>
 
