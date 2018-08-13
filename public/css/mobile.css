@@ -29,9 +29,14 @@
     margin: 20px 0px 50px 200px;
   }
   .countdown {
-    font-size: 50px;
+    display: flex;
     text-align: center;
+    justify-content: space-around;
+    font-family: 'Great Vibes', cursive;
+    font-size: -50px;
+    color: #581d22;
   }
+
   .text-countdown {
     text-align: center;
     font-size: 20px;

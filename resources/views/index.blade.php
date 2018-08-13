@@ -35,7 +35,8 @@
 					</a>
 				</h3>
 				<h3 class="text-center h3-custom">
-					Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis. Atirei o pau no gatis, per gatis num morreus. A ordem dos tratores não altera o pão duris. Cevadis im ampola pa arma uma pindureta.
+					Agradeço a Deus por ter te colocado em minha vida. Por me trazer as maiores alegrias.
+					E sempre será: Eu, Você e Deus. Meu presente de Deus: Danilo.
 				</h3>
 			</div>
 			<div class="col-12 col-lg-2 text-center wedding-separator">
@@ -50,7 +51,10 @@
 					</a>
 				</h3>
 				<h3 class="text-center h3-custom">
-					Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis. Atirei o pau no gatis, per gatis num morreus. A ordem dos tratores não altera o pão duris. Cevadis im ampola pa arma uma pindureta.
+					Quando tudo era cinza e sem sentido, Deus me trouxe um presente, 
+					o presente que veio para tornar os meus dias os mais felizes, 
+					Agora seremos um, um amor infinito em Cristo;
+					Esse presente se chama Isabella.
 				</h3>
 			</div>
 		</div>
@@ -81,7 +85,13 @@
 			<div class="col">
 				<h2 class="text-center h2-custom">Quando e Aonde?</h2>
 				<h3 class="text-center h3-custom">
-					Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerita de bolis, mais bolis eu num gostis. Cevadis im ampola pa arma uma pindureta.
+					Esta é uma data muito importante para nós, por isso, preparamos tudo com muito cuidado e estamos muito contentes por partilhar este momento com você nessa cerimônia especial!
+				</h3>
+				<h3 class="text-center h3-custom">
+					Depois de celebrarmos nossa união preparamos um delicioso jantar e, mais tarde, prepare-se, haverá uma grande festa.
+				</h3>
+				<h3 class="text-center h3-custom">
+					Abaixo os endereços/informações dos locais de cada momento:
 				</h3>
 			</div>
 		</div>
@@ -106,14 +116,51 @@
 	</div>
 
 	<div id="map" class="mt-4"></div>
-</section>
 
-<section id="confirm" class="confirm">
+	</br>
+	</br>
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="card">
+					<div class="content">
+					<div class="row text-center py-4">
+						<div class="col">
+							<img src="img/flower1.png" class="img-responsive img-fluid" alt="Responsive image">
+						</div>
+					</div>
+						<h3 class="h2-custom mb-4 text-center">
+						  Algumas dicas para você:
+						</h3>
+									<ul class="tips text-center h3-custom" style="list-style-type:none">
+										<li class="li-tips"><i class="fa fa-heart" style="font-size:10px;color:red;"></i>  Nos preocupamos com a sua segurança. Venha tranqüilo, o espaço possui estacionamento próprio;</li> <br>
+										<li><i class="fa fa-heart" style="font-size:10px;color:red;"></i>  Para  te ajudar a definir o modelito escolhemos o estilo de roupa para o evento como "Traje Social";</li><br>
+										<li><i class="fa fa-heart" style="font-size:10px;color:red;"></i>  Durante a recepção será oferecido bebida alcóolica. Se beber, não dirija!</li><br>
+										<li><i class="fa fa-heart" style="font-size:10px;color:red;"></i>  Tire muitas fotos e ajude a eternizar esse momento (queremos ver todas). Quando postar use a hashtag <strong>#isaedan2018</strong></li><br>
+										<li><i class="fa fa-heart" style="font-size:10px;color:red;"></i>  Antes de ir embora nos procure para tirarmos uma foto juntos. Queremos agradecer a cada convidado pessoalmente;</li><br>
+										<li><i class="fa fa-heart" style="font-size:10px;color:red;"></i>  Aproveite cada instante conosco. Estamos preparando em detalhes essa noite e queremos que você se sinta feliz em partilhar esse momento único em nossa vida.</li><br>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+</section>
+					</br>
+					</br>
+
+<section id="confirm" class="confirm bg-light py-4">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="card-rsvp">
 					<div class="content">
+					<div class="row text-center py-4">
+						<div class="col">
+							<img src="img/flower1.png" class="img-responsive img-fluid" alt="Responsive image">
+						</div>
+					</div>
 						<h3 class="h2-custom mb-4">
 						  Confirme sua presença:
 						</h3>
@@ -166,7 +213,7 @@
 	</div>
 </section>
 
-<section id="gifts" class="bg-light py-4">
+<section id="gifts">
 	<div class="container">
 		<div class="row text-center py-4">
 			<div class="col">
@@ -181,15 +228,20 @@
 						Sugestão de Presentes
 					</h3>
 					<h3 class="text-center h3-custom">
-						Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit.
+					Nos sentimos muito gratos com sua presença, para nós é um presente poder celebrar com você essa data tão importante em nossas vidas.
+
+					Porém se você deseja nos presentear, vamos adorar também. Para facilitar sua vida temos algumas sugestões de presente aqui:
+					</h3>
+					<h3 class="text-center h3-custom">
+						A nossa lista de presentes encontra-se na Havan, você pode clicar na imagem abaixo ou ir fisicamente em qualquer loja Havan;
 					</h3>
 				</div>
 			</div>
 		</div>
 
-		<div class="row text-center">
+		<div class="row text-center bg-light py-4">
 			<div class="col">
-				<a href="" target="_blank">
+				<a href="https://lista.havan.com.br/Convidado/ItensListaPresente/324227" target="_blank">
 					<img src="img/havan-logo.png" alt="" class="img-fluid" style="height: 150px;">
 				</a>
 			</div>
@@ -200,8 +252,9 @@
 
 <section>
 	<div class="container">
-		<h3 class="text-center h3-custom py-4">
-			Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit.
+		<h3 class="gifts-price text-center py-4">
+		<i aria-hidden="true" class="fa fa-gift"></i>
+			VALE-PRESENTES
 		</h3>
 
 		<div class="row">
