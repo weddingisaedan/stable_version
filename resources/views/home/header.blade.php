@@ -10,7 +10,7 @@
 		<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
 			<ul class="navbar-nav ml-auto mt-2 mt-lg-0 text-center text-lg-right">
 				<li class="nav-item active">
-					<a class="nav-link"  href="#">Home <span class="sr-only">(current)</span></a>
+					<a class="nav-link"  href="#home">Home <span class="sr-only">(current)</span></a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#couple">O Casal</a>
@@ -19,13 +19,13 @@
 					<a class="nav-link" href="#where">Quando e Aonde?</a>
 				</li>
 				<li class="nav-item">
+					<a class="nav-link" href="#tips">Dicas</a>
+				</li>
+				<li class="nav-item">
 					<a class="nav-link" href="#confirm">Confirme sua Presença</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#gifts">Presentes</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="">Fotos</a>
 				</li>
 			</ul>
 		</div>

@@ -12,9 +12,9 @@
 	</div>
 </section>
 
-<section id="couple">
+<section>
 	<div class="container">
-		<div class="row">
+		<div class="row" id="couple">
 			<div class="col mx-auto text-center">
 				<img src="img/flower1.png" class="img-responsive py-4" alt="Responsive image">
 			</div>
@@ -77,7 +77,7 @@
 <section id="location">
 	<div class="container mb-4">
 		<div class="row text-center py-4">
-			<div class="col">
+			<div class="col" >
 				<img src="img/flower1.png" class="img-responsive img-fluid" alt="Responsive image">
 			</div>
 		</div>
@@ -119,7 +119,7 @@
 
 	</br>
 	</br>
-<section>
+<section id="tips">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
