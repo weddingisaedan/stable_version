@@ -7,7 +7,7 @@ body {
 }
 
 .ul {
-  list-style-type:none
+  list-style-type: none
 }
 
 header {
@@ -70,11 +70,8 @@ header {
   line-height: 1;
   font-family: "Great Vibes";
   font-size: 28px;
-  margin-top: 20%;
   text-decoration: none;
   text-shadow: 0 2px 4px #333;
-  position: absolute;
-  bottom: 10%;
 }
 
 #map {

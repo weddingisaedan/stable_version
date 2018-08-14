@@ -1,6 +1,26 @@
 @media screen and (max-width:768px) {
-  .full-top>h3 {
-    font-size: 16px;
+  .full-top {
+    background: url(/img/1.jpeg) no-repeat;
+    background-position: top center;
+    background-position-x: center;
+    background-position-y: top;
+    background-size: cover;
+    width: 100%;
+    min-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  .full-top h3 {
+    font-size: 42px !important;
+    text-align: center;
+  }
+  .full-top .box-center {
+    display: flex;
+    flex-direction: column;
+  }
+  .full-top .box-center .button-down {
+    position: relative;
+    text-align: center;
   }
   .navbar {
     padding-left: 0px;
@@ -8,9 +28,6 @@
   }
   .text-top {
     font-size: 60px;
-  }
-  .button-down {
-    margin: 80% 45%;
   }
   .navbar-brand {
     margin-top: 20px;
@@ -36,16 +53,8 @@
     font-size: -50px;
     color: #581d22;
   }
-
   .text-countdown {
     text-align: center;
     font-size: 20px;
-  }
-  .full-top {
-    background: url(/img/1.jpeg) no-repeat;
-    background-position: center top;
-    background-size: cover;
-    min-height: 50vh;
-    min-width: 50vh;
   }
 }
