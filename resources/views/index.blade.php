@@ -61,12 +61,13 @@
 	</div>
 </section>
 
-<!-- Countdown -->
+<!-- Countdown
 <section id="countdown-row" class="fluid-container bg-light p-4">
 	<div class="container">
 		<vue-countdown></vue-countdown>
 	</div>
 </section>
+-->
 
 <section class="img-phrase">
 	<div class="text-center phrase">
