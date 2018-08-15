@@ -1,3 +1,23 @@
+$(document).ready(function () {
+	scroll(60);
+});
+
+/**
+ * 	Scrollspy to smooth scrolling on the page navigation
+ */
+function scroll(offset) {
+	$('.scrollspy').scrollspy();
+	$('.scrollspy').bind('click', function (e) {
+		e.preventDefault();
+		target = this.hash;
+		$('html, body').animate({
+			scrollTop: $(target).offset().top - offset
+		}, 700);
+
+		return false;
+	});
+}
+
 // Masks
 function masks() {
 	var SPMaskBehavior = function (val) {
@@ -11,14 +31,3 @@ function masks() {
 	$('.sp_celphones').mask(SPMaskBehavior, spOptions);
 	$('.cep').mask('00000-000');
 }
-
-// Scrolldown
-$('nav a, #down').click(function (e) {
-	e.preventDefault();
-	var id = $(this).attr('href');
-	targetOffset = $(id).offset().top;
-
-	$('html, body').animate({
-		scrollTop: targetOffset
-	}, 500);
-});
