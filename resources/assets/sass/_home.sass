@@ -1,6 +1,247 @@
-h1.main-title
-	color: #0E0346
-	text-align: center
+$highlight-font: "Great Vibes"
+$title-font: 'Allura', cursive
+$tie-font: "Raleway", sans-serif
+$description-font: "Raleway", sans-serif
+
+$grey-color: #808080
+
+.card
+	box-shadow: 0 2px 6px #CCC
+	&:hover
+		box-shadow: 0 2px 12px #CCC
+
+.required
+	color: orange
+
+header
+	position: fixed
+	top: 0
+	left: 0
+	right: 0
+	background: white
+	height: 60px
+	z-index: 1000
+	.navbar
+		background: white
+		box-shadow: 0 2px 6px #999
+		.navbar-brand
+			font-family: $highlight-font
+			font-size: 2.5rem
+			margin: 0
+
+
+#sectionFirst
+	background: url(/img/1.jpeg) no-repeat
+	background-attachment: fixed
+	background-position: center
+	background-size: cover
+	min-height: 100vh
+	width: 100%
+	margin: 0 auto
+	.center-content
+		position: relative
+		min-height: 100vh
+		height: 80%
+		width: 100%
+		h2
+			color: white
+			font-family: $highlight-font
+			font-size: 6rem
+			text-shadow: 0 2px 6px black
+	.bottom-content
+		position: absolute
+		bottom: 30px
+		line-height: 1
+		font-family: $highlight-font
+		font-size: 2.2rem
+		text-shadow: 0 2px 6px black
+		a
+			text-decoration: none
+			color: white
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767px)
+	#sectionFirst
+		.center-content
+			h2
+				font-size: 4.5rem
+		.bottom-content
+			font-size: 1.5rem
+
+#sectionSecond
+	background: white
+	h2.title
+		font-family: $title-font
+		font-size: 4rem
+	.tie
+		font-family: $tie-font
+		font-size: 1rem
+	.img-engaged
+		border-radius: 50%
+		filter: drop-shadow(8px 8px 10px gray)
+		object-fit: cover
+		object-position: center
+		width: 300px
+		height: 300px
+		transform: rotate(90deg)
+	.engaged-name
+		font-family: $title-font
+		font-size: 3rem
+		margin: 0
+		padding: 0
+	i
+		color: #95bae1
+		font-size: 2rem
+	.engaged-description
+		color: grey
+		font-family: $description-font
+		font-size: 0.9rem
+		line-height: 1.4
+	.engaged-divider
+		font-family: $highlight-font
+		font-size: 4rem
+
+#countdown
+	background-color: #F8F9FA
+	font-family: $title-font
+	h2
+		font-size: 4rem
+	h6
+		font-size: 2.5rem
+
+#sectionThree
+	background: url(/img/phrase.jpg)
+	background-position: center
+	background-size: contain
+	background-attachment: fixed
+	width: 100%
+	min-height: 500px
+	filter: grayscale(90%)
+	.bg-phrase
+		background-color: yellow
+		opacity: 0.7
+		p
+			color: #333
+			line-height: 1.5
+			font-family: $highlight-font
+			font-size: 2.5rem
+			opacity: 1 !important
+			text-shadow: 0 2px 6px #FFF
+
+#sectionFour
+	background: white
+	h2.title
+		font-family: $title-font
+		font-size: 4rem
+	.tie
+		font-family: $tie-font
+		font-size: 1rem
+	.card
+		.card-title
+			font-family: $title-font
+			font-size: 2.8rem
+
+#sectionSix
+	background: white
+	.card
+		.card-title
+			h4
+				font-family: $title-font
+				font-size: 4rem
+		.card-body
+			ul.tips
+				.li-tips
+					color: $grey-color
+					font-family: $description-font
+					i
+						font-size: 0.8rem
+						color:red
+
+#sectionSeven
+	h2.title
+		font-family: $title-font
+		font-size: 4rem
+	.form
+		color: $grey-color
+
+#sectionEight
+	background: white
+	h2.title
+		font-family: $title-font
+		font-size: 4rem
+	.tie
+		font-family: $tie-font
+		font-size: .9rem
+		color: $grey-color;
+	.gift-cards
+		.title
+			color: $grey-color
+			font-size: 1.8rem
+			text-transform: uppercase
+			i
+				color: #95bae1
+			h3
+				font-family: $tie-font
+				margin: 0
+
+		.pricingTable
+			border: 2px solid #e6ddf5
+			border-radius: 10px
+			padding: 25px 0 35px
+			position: relative
+			text-align: center
+			i
+				color: #95bae1
+				font-size: 2.5rem
+				padding-bottom: 10px
+			.price-value
+				background: #d0a3c0
+				color: #fff
+				font-size: 2rem
+				font-weight: 700
+				margin: 0 -2px 20px
+				padding: 5px 0
+			.pricingTable-signup
+				display: inline-block
+				width: 125px
+				padding: 7px 10px
+				background: #95bae1
+				border: 1px solid #95bae1
+				border-radius: 20px
+				font-size: 1rem
+				font-weight: bold
+				color: #fff
+				text-transform: capitalize
+				margin: 0 auto
+				position: absolute
+				bottom: -18px
+				left: 0
+				right: 0
+				transition: all 0.4s ease 0s
+
+#sectionNine
+	background-attachment: fixed
+	background-image: url(/img/phrase2.jpg)
+	background-position: center 25%
+	background-repeat: no-repeat
+	background-size: cover
+	filter: grayscale(45%)
+	min-height: 550px
+	width: 100%
+	.box-phrase2
+		padding 200px 0
+	.text-phrase2
+		color: white
+		font-family: $title-font
+		font-size: 3rem
+		line-height: 1.15em
+		text-shadow: 0 1px 3px black
+
+footer
+	height: 60px
+	h6
+		margin: 0
+		font-size: 1.2rem
 #map
 	height: 300px
 	width: 80%

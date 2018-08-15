@@ -14,6 +14,7 @@ require('./functions');
  */
 
 // Vue.component('example', require('./components/Example.vue'));
+Vue.component("vue-countdown", require("./components/Countdown.vue"));
 
 const app = new Vue({
   el: '#app'

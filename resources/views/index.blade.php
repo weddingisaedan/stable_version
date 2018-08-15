@@ -64,7 +64,7 @@
 <!-- Countdown -->
 <section id="countdown-row" class="fluid-container bg-light p-4">
 	<div class="container">
-		<div id="countdown"></div>
+		<vue-countdown></vue-countdown>
 	</div>
 </section>
 
