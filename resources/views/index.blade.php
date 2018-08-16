@@ -350,9 +350,6 @@
                 <a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=337793108-51d2b233-bfad-49ac-bdc8-f1355e45a1a3" class="pricingTable-signup" target="_blank">
                   Presentear
                 </a>
-                <script type="text/javascript">
-                  (function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
-                </script>
               </div>
             </div>
             <div class="col-12 col-md-3 my-4">
@@ -364,12 +361,9 @@
                     250
                   </span>
                 </div>
-                <a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=337793108-366c7ecf-76d7-44c0-834e-56b8f4ef565b" name="MP-payButton" class="pricingTable-signup">
+                <a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=337793108-366c7ecf-76d7-44c0-834e-56b8f4ef565b" class="pricingTable-signup" target="_blank">
                   Presentear
                 </a>
-                <script type="text/javascript">
-                  (function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
-                </script>
               </div>
             </div>
             <div class="col-12 col-md-3 my-4">
@@ -381,12 +375,9 @@
                     300
                   </span>
                 </div>
-                <a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=337793108-bc30ce39-1842-4456-8479-69593e00ea05" name="MP-payButton" class="pricingTable-signup">
+                <a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=337793108-bc30ce39-1842-4456-8479-69593e00ea05" class="pricingTable-signup" target="_blank">
                   Presentear
                 </a>
-                <script type="text/javascript">
-                  (function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
-                </script>
               </div>
             </div>
             <div class="col-12 col-md-3 my-4">
@@ -398,12 +389,9 @@
                     500
                   </span>
                 </div>
-                <a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=337793108-df78fe3c-9fec-4936-bbf6-522bfac0ccfa" name="MP-payButton" class="pricingTable-signup">
+                <a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=337793108-df78fe3c-9fec-4936-bbf6-522bfac0ccfa" class="pricingTable-signup" target="_blank">
                   Presentear
                 </a>
-                <script type="text/javascript">
-                  (function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
-                </script>
               </div>
             </div>
 		      </div>
