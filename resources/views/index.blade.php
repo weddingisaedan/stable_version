@@ -239,7 +239,7 @@
           Confirme sua presença
         </h2>
         <form class="form py-4"
-          action="#">
+          action="send" method="post">
           @csrf
           <div class="form-group col-12 col-lg-8 mx-auto pb-3">
             <label for="formName">
@@ -261,7 +261,7 @@
                 <input type="radio"
                   name="confirmation_id"
                   id="formParticipateYes"
-                  value="1"
+                  value="Sim! Eu vou estar lá"
                   checked="checked"
                   class="form-check-input">
                 Sim! Eu vou estar lá
@@ -272,7 +272,7 @@
                 <input type="radio"
                   name="confirmation_id"
                   id="formParticipateGuestsYes"
-                  value="2"
+                  value="Sim! Eu vou estar lá, com todos à quem meu convite foi destinado"
                   class="form-check-input">
                 Sim! Eu vou estar lá, com todos à quem meu convite foi destinado
               </label>
@@ -282,7 +282,7 @@
                   <input type="radio"
                     name="confirmation_id"
                     id="participateNo"
-                    value="3"
+                    value="Desculpe. Não vou poder participar"
                     class="form-check-input">
                   Desculpe. Não vou poder participar
                 </label>
@@ -301,6 +301,12 @@
           </div>
         </form>
       </div>
+
+      @foreach (['danger', 'warning', 'success', 'info'] as $key)
+ @if(Session::has($key))
+     <p class="alert alert-{{ $key }}">{{ Session::get($key) }}</p>
+ @endif
+@endforeach
     </section>
 
     <section id="sectionEight">

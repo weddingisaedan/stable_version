@@ -18,3 +18,5 @@ Route::get('/', function () {
 Route::get('welcome', function () {
     return view('welcome');
 });
+
+Route::post('send', 'mailController@send');
