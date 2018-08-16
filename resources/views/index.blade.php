@@ -347,7 +347,7 @@
                     100
                   </span>
                 </div>
-                <a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=337793108-51d2b233-bfad-49ac-bdc8-f1355e45a1a3" name="MP-payButton" class="pricingTable-signup">
+                <a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=337793108-51d2b233-bfad-49ac-bdc8-f1355e45a1a3" class="pricingTable-signup" target="_blank">
                   Presentear
                 </a>
                 <script type="text/javascript">
