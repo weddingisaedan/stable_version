@@ -168,7 +168,7 @@
                 <p class="card-text text-center">
                   <h5 class="text-center">Churrascaria Vallejo</h5>
                   <address class="text-center text-muted">
-                    Rod. Dep. João Lepoldo Jacomel, 12955 - Maria Antonieta, Pinhais - PR, 83323-125
+                    Rod. Dep. João Leopoldo Jacomel, 12955 - Centro, Pinhais - PR, 83323-125
                   </address>
                   <h6 class="text-center">Início logo após a Cerimônia.</h6>
                 </p>

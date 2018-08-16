@@ -24,7 +24,7 @@
 				<li class="nav-item">
 					<a class="nav-link scrollspy"
 						href="#sectionFour">
-						Quando e Aonde?
+						Quando e Onde?
 					</a>
 				</li>
 				<li class="nav-item">
