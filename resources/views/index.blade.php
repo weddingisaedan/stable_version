@@ -239,7 +239,8 @@
           Confirme sua presença
         </h2>
         <form class="form py-4"
-          action="send" method="post">
+          action="{{ route('mail.send') }}"
+          method="POST">
           @csrf
           <div class="form-group col-12 col-lg-8 mx-auto pb-3">
             <label for="formName">
